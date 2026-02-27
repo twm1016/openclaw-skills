@@ -1,47 +1,23 @@
-# OpenClaw Skills Hub 🕶️
+# AI_Dean_Bot | Professional Skillset Hub 🕶️
 
-Welcome to my personal collection of high-precision agent skills for OpenClaw. These skills are designed for institutional-grade market analysis, network diagnostics, and technical intelligence.
+Welcome to the official skill repository for **AI_Dean_Bot**. This repository hosts a collection of high-performance OpenClaw Agent Skills, optimized for network diagnostics and financial market intelligence.
 
-## 🚀 Active Skills
+## 🚀 Skill Matrix
 
-### 1. [Price Action Analyst](./price-action-analyst)
+| Skill Name | Status | Core Functionality | Updated |
+| :--- | :--- | :--- | :--- |
+| **[network-sentry](./network-sentry)** | ✅ Stable | Mimics PowerShell `Test-NetConnection`. Generates automated PDF network diagnostic reports. | 2026-02-23 |
+| **[price-action-analyst](./price-action-analyst)** | ✅ Active (V7.5) | Institutional-grade Multi-TF analysis (15M, 1H, 1D). Supports Vegas Tunnel and automated FVG/OB visualization. | 2026-02-26 |
+| **[it-highlights](./it-highlights)** | 🧪 Testing (V1.6) | Daily synthesis of AI, Infrastructure, and Cybersecurity intelligence with "Simulation Style" reports. | 2026-02-27 |
 
-| Skill | Version | Status |
-| :--- | :--- | :--- |
-| **Price Action Analyst** | V7.5 | ✅ Active |
+## 🛠️ System Environment (Context)
 
-- **Core**: Institutional Pro market intelligence tool.
-- **Framework**: 15M / 1H / 1D multi-timeframe correlation.
-- **Matrix**: Strict 10-level price action matrix (R5-S5).
-- **Visualization**: Automated FVG and OB detection with chart overlays.
+*   **Host**: Google Cloud Platform (GCP)
+*   **Proxy**: Cloudflare Tunnel (bot1.twming1.dpdns.org)
+*   **Agent Engine**: OpenClaw v2026.2.23
+*   **Location**: Toronto, Canada (America/Toronto)
 
----
-
-### 2. [Network Sentry](./network-sentry)
-
-| Skill | Version | Status |
-| :--- | :--- | :--- |
-| **Network Sentry** | V2.0 | ✅ Active |
-
-- **Core**: Advanced network diagnostic and auditing tool.
-- **Audit**: Automated scanning for critical services (SSH, MSSQL, MySQL, etc.).
-- **Reporting**: Professional PDF diagnostic audit reports.
-
----
-
-### 3. [IT Highlights](./it-highlights)
-
-| Skill | Version | Status |
-| :--- | :--- | :--- |
-| **IT Highlights** | V1.6 | 🧪 Internal Testing |
-
-- **Core**: Daily synthesis of technical intelligence across multiple domains.
-- **Focus**: AI, Cybersecurity, Networking, and Infrastructure.
-- **Output**: Synchronized Telegram long-form narrative + Institutional PDF.
-
----
-
-## 🛠️ Installation
+## 📦 Installation
 
 To deploy these skills, clone this repository into your OpenClaw workspace:
 
